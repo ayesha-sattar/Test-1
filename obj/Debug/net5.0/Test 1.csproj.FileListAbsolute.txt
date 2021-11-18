@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Test 1\bin\Debug\net5.0\Test 1.exe
+C:\Users\Dell\Desktop\Test 1\bin\Debug\net5.0\Test 1.deps.json
+C:\Users\Dell\Desktop\Test 1\bin\Debug\net5.0\Test 1.runtimeconfig.json
+C:\Users\Dell\Desktop\Test 1\bin\Debug\net5.0\Test 1.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Test 1\bin\Debug\net5.0\Test 1.dll
+C:\Users\Dell\Desktop\Test 1\bin\Debug\net5.0\ref\Test 1.dll
+C:\Users\Dell\Desktop\Test 1\bin\Debug\net5.0\Test 1.pdb
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.dll
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\ref\Test 1.dll
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.pdb
+C:\Users\Dell\Desktop\Test 1\obj\Debug\net5.0\Test 1.genruntimeconfig.cache
