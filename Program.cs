@@ -16,15 +16,15 @@ namespace Test_1
             Console.WriteLine(14+-4*6/11);
             Console.WriteLine(2+15/6*1-7%2);
 
-            Console.WriteLine("result/=2;");
+            Console.WriteLine( result/=2;);
 
-            Console.WriteLine("x=x+2;");
+            Console.WriteLine( x=x+2;);
 
-           Console.WriteLine("const float PI = 3.142;"); 
+           Console.WriteLine( const float PI = 3.142;); 
 
-           Console.WriteLine("int i = 10;");
+           Console.WriteLine(int i = 10;);
 
-           Console.WriteLine("int start=0 , end=0;");
+           Console.WriteLine( int start=0 , end=0;);
 
 
 
